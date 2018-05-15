@@ -1,0 +1,18 @@
+﻿  BlackJack_main.cpp
+c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(3): warning C4627: '#include <windows.h>': skipped when looking for precompiled header use
+  c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(3): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(4): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+  c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(4): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(5): warning C4627: '#include <string>': skipped when looking for precompiled header use
+  c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(5): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(6): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+  c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(6): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(7): warning C4627: '#include <time.h>': skipped when looking for precompiled header use
+  c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(7): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(8): warning C4627: '#include <algorithm>': skipped when looking for precompiled header use
+  c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(8): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(9): warning C4627: '#include <vector>': skipped when looking for precompiled header use
+  c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(9): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(10): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+  c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(10): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\toby joseph\desktop\blackjack\blackjack\blackjack_main.cpp(338): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
